@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-get_ipython().magic(u'pylab inline')
+import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy import stats
 import pandas as pd
