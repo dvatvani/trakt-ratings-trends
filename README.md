@@ -1,5 +1,5 @@
 # Trakt.TV ratings trends
-Trakt.tv ratings trends is a python script to create interactive visualisation of episode ratings of a TV show using Trakt.tv ratings data.
+`trakt-ratings-trends` is a python script to create interactive visualisation of episode ratings of a TV show using Trakt.tv ratings data.
 
 ## Dependencies
 
@@ -23,6 +23,9 @@ The script will generate 3 files in the folder the script is running from:
  - A png file with a static version of the episode ratings plot
  - A html file with an interactive version of the episode ratings plot
 
+An example of the output of the script can be found in the `sample_output` folder or in the [Jupyter notebook][jupyter_notebook]. 
+The interactive plots of the top 10 most popular TV shows according to Trakt.tv can be found in this [blog post][blog_post]. 
+
 ## Contributions
 
 Any ideas or contributions for further development are very welcome. Just drop me an e-mail or submit a pull request
@@ -30,3 +33,6 @@ Any ideas or contributions for further development are very welcome. Just drop m
 ## Maintainer
 
 * Dinesh Vatvani ([@d_vatvani](https://twitter.com/d_vatvani))
+
+[jupyter_notebook]: http://nbviewer.jupyter.org/github/dvatvani/trakt-ratings-trends/blob/master/trakt-ratings-trends.ipynb
+[blog_post]: http://dvatvani.github.io/tv-show-episode-ratings.html#tv-show-episode-ratings
