@@ -1,5 +1,5 @@
 # Trakt.TV ratings trends
-`trakt-ratings-trends` is a python script to create interactive visualisation of episode ratings of a TV show using Trakt.tv ratings data.
+`trakt-ratings-trends` is a python script to create an interactive visualisation of episode ratings of a TV show using Trakt.tv ratings data.
 
 ## Dependencies
 
